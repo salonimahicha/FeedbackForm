@@ -1,0 +1,33 @@
+.comment {
+  float: left;
+  width: 50%;
+  height: 100%;
+}
+.feed_content {
+  width: 50%;
+  height: 100%;
+  float: left;
+}
+.feed_content header {
+  width: 100%;
+  height: 12%;
+  margin-left: 1px;
+  background-color: #acb3b9;
+  border: 2px solid black;
+}
+.comment header {
+  width: 100%;
+  height: 12%;
+  margin-left: 1px;
+  background-color: #acb3b9;
+  border: 2px solid black;
+}
+.fb {
+  padding: 1px;
+  height: 100%;
+  width: 100%;
+
+  background-color: #d4d7dc;
+  border: 2px solid black;
+  box-shadow: 10px 10px 10px gray;
+}
